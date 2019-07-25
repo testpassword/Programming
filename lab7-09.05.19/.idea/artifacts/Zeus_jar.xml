@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Zeus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zeus_jar</output-path>
+    <root id="archive" name="Zeus.jar">
+      <element id="module-output" name="Zeus" />
+      <element id="extracted-dir" path="C:/Program Files/Java/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/postgresql-42.2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

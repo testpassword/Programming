@@ -1,0 +1,2 @@
+[{"name":"Big Smoke","cash":{"amount":1,"sum":54.0},"account":{"sum":21.0}, "space":{"type":"STREET","x":2.0,"y":1.0}, "reputation":0,"bornDate":"1917-01-05T13:03:30Z"},
+  {"name":"CJ","cash":{"amount":0,"sum":19.0},"account":{"sum":0.0}, "space":{"type":"STREET","x":2.0,"y":7.0},"reputation":170,"bornDate":"1922-01-01T13:02:30Z"}]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HadesMod/HadesMod.iml" filepath="$PROJECT_DIR$/HadesMod/HadesMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrometheusMod/PrometheusMod.iml" filepath="$PROJECT_DIR$/PrometheusMod/PrometheusMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeusMod/ZeusMod.iml" filepath="$PROJECT_DIR$/ZeusMod/ZeusMod.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prometheus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prometheus_jar</output-path>
+    <root id="archive" name="Prometheus.jar">
+      <element id="module-output" name="Prometheus" />
+      <element id="extracted-dir" path="C:/Program Files/Java/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

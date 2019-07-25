@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientApp_jar</output-path>
+    <root id="archive" name="PrometheusMod.jar">
+      <element id="module-output" name="PrometheusMod" />
+      <element id="module-output" name="Commands" />
+      <element id="module-output" name="ZeusMod" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/Java/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

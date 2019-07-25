@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HadesMod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HadesMod_jar</output-path>
+    <root id="archive" name="HadesMod.jar">
+      <element id="module-output" name="HadesMod" />
+    </root>
+  </artifact>
+</component>

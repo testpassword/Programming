@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races">
+        <item>Человек</item>
+        <item>Эльф</item>
+        <item>Орк</item>
+        <item>Гном</item>
+    </string-array>
+
+    <string-array name="params">
+        <item>Сила</item>
+        <item>Ловкость</item>
+        <item>Интеллект</item>
+        <item>Выносливость</item>
+        <item>Удача</item>
+    </string-array>
+
+</resources>

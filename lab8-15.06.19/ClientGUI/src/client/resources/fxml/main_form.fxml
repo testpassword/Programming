@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="405.0" minWidth="720.0" prefHeight="540.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.controllers.MainFormController">
+   <children>
+      <GridPane prefHeight="48.0" prefWidth="960.0">
+        <columnConstraints>
+          <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="234.0" minWidth="10.0" prefWidth="162.0" />
+          <ColumnConstraints halignment="LEFT" hgrow="SOMETIMES" maxWidth="665.0" minWidth="0.0" prefWidth="360.0" />
+            <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="665.0" minWidth="5.0" prefWidth="25.0" />
+            <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="665.0" minWidth="10.0" prefWidth="250.0" />
+            <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="251.0" minWidth="10.0" prefWidth="235.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="%key.main.helloLabel">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="statusLabel" GridPane.columnIndex="1">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </Label>
+            <Button fx:id="updateButton" mnemonicParsing="false" onAction="#handleUpdateButtonAction" text="%key.main.updateBtn" textFill="#002cb1" GridPane.columnIndex="4" />
+            <Button fx:id="saveButton" mnemonicParsing="false" onAction="#handleSaveButtonAction" prefHeight="31.0" prefWidth="192.0" text="%key.main.saveBtn" textFill="#002cb1" GridPane.columnIndex="3" />
+            <Separator orientation="VERTICAL" prefHeight="200.0" GridPane.columnIndex="2" />
+         </children>
+         <padding>
+            <Insets left="10.0" />
+         </padding>
+      </GridPane>
+      <TabPane prefHeight="462.0" prefWidth="960.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab fx:id="tableTab" text="%key.main.tableTab">
+               <content>
+                  <TableView fx:id="shortysTable" editable="true" prefHeight="285.0" prefWidth="960.0">
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </content></Tab>
+          <Tab fx:id="mapTab" text="%key.main.mapTab" />
+        </tabs>
+         <effect>
+            <InnerShadow />
+         </effect>
+      </TabPane>
+      <HBox prefHeight="41.0" prefWidth="960.0">
+         <VBox.margin>
+            <Insets left="10.0" />
+         </VBox.margin>
+         <children>
+            <GridPane hgap="7.0" prefHeight="41.0" prefWidth="954.0">
+              <columnConstraints>
+                <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="775.0" minWidth="10.0" prefWidth="325.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="470.0" minWidth="0.0" prefWidth="67.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="470.0" minWidth="10.0" prefWidth="71.0" />
+                <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="470.0" minWidth="10.0" prefWidth="118.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="470.0" minWidth="10.0" prefWidth="163.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="470.0" minWidth="10.0" prefWidth="179.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <TextField fx:id="nameField" prefHeight="31.0" prefWidth="481.0" promptText="%key.main.nameField" />
+                  <TextField prefHeight="31.0" prefWidth="38.0" promptText="X" GridPane.columnIndex="1" fx:id="xCoordField" />
+                  <TextField fx:id="yCoordField" prefHeight="31.0" prefWidth="146.0" promptText="Y" GridPane.columnIndex="2" />
+                  <Button fx:id="addButton" mnemonicParsing="false" onAction="#handleAddButtonAction" prefHeight="31.0" prefWidth="92.0" text="%key.main.addBtn" textFill="#00943b" GridPane.columnIndex="3" />
+                  <Button fx:id="deleteButton" mnemonicParsing="false" onAction="#handleDeleteButtonAction" text="%key.main.deleteBtn" textFill="#eb3737" GridPane.columnIndex="4" />
+                  <MenuButton mnemonicParsing="false" text="%key.main.otherOptions" GridPane.columnIndex="5">
+                    <items>
+                      <MenuItem fx:id="clearButton" mnemonicParsing="false" onAction="#handleClearButtonAction" text="%key.main.clearBtn" />
+                      <MenuItem fx:id="addIfMinButton" mnemonicParsing="false" onAction="#handleAddIfMinButtonAction" text="%key.main.addIfMinBtn" />
+                        <MenuItem fx:id="importButton" mnemonicParsing="false" onAction="#handleImportButtonAction" text="%key.main.importBtn" />
+                        <MenuItem fx:id="removeLastButton" mnemonicParsing="false" onAction="#handleRemoveLastButtonAction" text="%key.main.removeLastBtn" />
+                    </items>
+                  </MenuButton>
+               </children>
+            </GridPane>
+         </children>
+      </HBox>
+   </children>
+</VBox>

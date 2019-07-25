@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CourseraFirstCourseProgrammingTest</string>
+    <string name="summary">Summary</string>
+    <string name="name">Name</string>
+    <string name="Race">Race</string>
+    <string name="Specialization">Specialization</string>
+    <string name="helth">Helth</string>
+    <string name="mana">Mana</string>
+    <string name="attack">Attack</string>
+    <string name="ph_resist">Physic defence</string>
+    <string name="magic_resist">Magic defence</string>
+    <string name="dodge">Dodge</string>
+    <string name="critical_hit_chance">Critical hit chance</string>
+    <string name="attributes">Attributes</string>
+    <string name="perks">Perks</string>
+</resources>

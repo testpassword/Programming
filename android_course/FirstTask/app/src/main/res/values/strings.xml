@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstTask</string>
+    <string name="textChecker_hint">Введите текст</string>
+    <string name="copyright1">ITMO University</string>
+    <string name="copyright2">265570</string>
+    <string name="button_text">Поднять тост</string>
+    <string name="ac_next_button">Найти в Google</string>
+    <string name="error">Поле должно быть заполнено</string>
+</resources>

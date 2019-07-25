@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_back_for_ac_next"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/text_viewer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="35sp"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/badder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ac_next_button"
+        android:textColor="#000000"
+        android:background="#d9f8ff"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp" />
+</LinearLayout>

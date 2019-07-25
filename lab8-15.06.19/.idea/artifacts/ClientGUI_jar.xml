@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientGUI_jar</output-path>
+    <root id="archive" name="ClientGUI.jar">
+      <element id="module-output" name="ClientGUI" />
+      <element id="module-output" name="ExtendedServer" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/Java/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/Java/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/Java/postgresql-42.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/Java/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

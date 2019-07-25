@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="program:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/program_jar</output-path>
+    <root id="archive" name="program.jar">
+      <element id="module-output" name="program" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Pokemon.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
