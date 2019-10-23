@@ -8,6 +8,7 @@
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>s265570</user-name>
+      <schema-mapping />
       <ssh-properties>
         <enabled>true</enabled>
         <proxy-host>helios.se.ifmo.ru</proxy-host>
