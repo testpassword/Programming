@@ -17,5 +17,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="PrometheusMod" />
+    <orderEntry type="library" name="gson-2.8.5" level="project" />
   </component>
 </module>

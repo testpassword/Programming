@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="gson-2.8.5">
+  <library name="javax.mail">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

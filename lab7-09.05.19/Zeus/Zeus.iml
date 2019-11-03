@@ -44,5 +44,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="jsch-0.1.55" level="project" />
+    <orderEntry type="library" name="gson-2.8.5" level="project" />
+    <orderEntry type="library" name="javax.mail" level="project" />
+    <orderEntry type="library" name="postgresql-42.2.5" level="project" />
   </component>
 </module>
