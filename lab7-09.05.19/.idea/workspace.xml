@@ -8,77 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cac074b-0712-4856-930d-c316bd2b98bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_mail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_52.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_53.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/lab5_06_01_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/lab5-06.01.191.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/lab5-06.01.191.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/AbstractBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/AbstractBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/CollectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/CollectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Commander.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Commander.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Shorty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Shorty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Town$Place.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Town$Place.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/WalletBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/WalletBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/gson-2.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/src/LabFive/gson-2.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-25.03.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/ZeusMod/ZeusMod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-25.03.19/ZeusMod/ZeusMod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/out/production/PrometheusMod/META-INF/PrometheusMod.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/out/production/ZeusMod/META-INF/ZeusMod.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Zeus_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Zeus_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zeus/Zeus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zeus/Zeus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zeus/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zeus/mail.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8-15.06.19/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8-15.06.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/mail.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/Connection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/Connection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/ServerSide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/AbstractCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/AddCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/AddIfMinCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/ClearCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/DeleteAccountCommand$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/DeleteAccountCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/HelpCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/ImportCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/InfoCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/LoadCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/LoginCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/ManCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RegisterCommand$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RegisterCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RemoveAllCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RemoveCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RemoveGreaterCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/RemoveLastCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/SaveCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/ShowCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/SortCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/UpdateCommand$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/commands/UpdateCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/CollectionManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/CollectionManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/DatabaseManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/PasswordManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/Tunnel$localUserInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/server/managers/Tunnel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/tale/LotActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/tale/Shorty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/out/production/ExtendedServer/tale/WalletBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8-15.06.19/ExtendedServer/ExtendedServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8-15.06.19/ExtendedServer/ExtendedServer.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,13 +71,18 @@
   </component>
   <component name="ProjectId" id="1PpqLj8XShkFbZ9bL4yIxRfxVDx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab8-15.06.19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -164,18 +104,6 @@
       <recent name="C:\Users\pugalol\Desktop\programming\lab7-09.05.19\Zeus\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.CLIENT">
     <configuration name="CLIENT" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="ClientSide" />
@@ -195,6 +123,18 @@
       <item itemvalue="Application.SERVER" />
       <item itemvalue="Application.CLIENT" />
     </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\pugalol\AppData\Roaming\Subversion</configuration>
@@ -257,6 +197,8 @@
       <workItem from="1571857572521" duration="6000" />
       <workItem from="1572798289713" duration="280000" />
       <workItem from="1572807346756" duration="270000" />
+      <workItem from="1575979453249" duration="2476000" />
+      <workItem from="1575987840626" duration="9000" />
     </task>
     <servers />
   </component>
@@ -284,5 +226,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="428" height="500" key="javadoc.popup.new" timestamp="1575982080402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="428" height="500" key="javadoc.popup.new/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575982080402" />
   </component>
 </project>

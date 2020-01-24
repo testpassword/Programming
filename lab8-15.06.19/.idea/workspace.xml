@@ -8,44 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d543edb-b11a-45aa-ab63-dfd640414ad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/libraries/javax_mail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/libraries/jsch_0_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/libraries/gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_52.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_53.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/gson_2_8_54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/libraries/lab5_06_01_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/lab5-06.01.191.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/lab5-06.01.191.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/AbstractBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/AbstractBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/CollectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/CollectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Commander.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Commander.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Shorty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Shorty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Town$Place.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/Town$Place.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/WalletBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/WalletBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/out/production/lab5-06.01.191/LabFive/gson-2.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab5-06.01.19/src/LabFive/gson-2.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-25.03.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/ZeusMod/ZeusMod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6-25.03.19/ZeusMod/ZeusMod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/out/production/PrometheusMod/META-INF/PrometheusMod.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab6-25.03.19/out/production/ZeusMod/META-INF/ZeusMod.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/.idea/artifacts/Zeus_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/artifacts/Zeus_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/Zeus/Zeus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/Zeus/Zeus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/out/production/Zeus/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/out/production/Zeus/mail.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtendedServer/ExtendedServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExtendedServer/ExtendedServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExtendedServer/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExtendedServer/mail.properties" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,24 +70,23 @@
       </set>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="125" />
-    <option name="width" value="1440" />
-    <option name="height" value="775" />
-  </component>
   <component name="ProjectId" id="1OhBxXoyg5fMPM2p2KRnnlLAG17" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jsch-0.1.55.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -144,19 +110,7 @@
       <recent name="V:\ITMO\1 course\programming\lab8-15.06.19\ExtendedServer\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SERVER">
+  <component name="RunManager" selected="Application.CLIENT">
     <configuration name="CLIENT" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="client.ClientSide" />
       <module name="ClientGUI" />
@@ -175,6 +129,18 @@
       <item itemvalue="Application.CLIENT" />
       <item itemvalue="Application.SERVER" />
     </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -233,6 +199,9 @@
       <workItem from="1564420202817" duration="26000" />
       <workItem from="1572798542759" duration="26000" />
       <workItem from="1572807561306" duration="179000" />
+      <workItem from="1572807884191" duration="7000" />
+      <workItem from="1575489266363" duration="161000" />
+      <workItem from="1575489454618" duration="18000" />
     </task>
     <servers />
   </component>
@@ -251,5 +220,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1575489426328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1575489426328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1575489426327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426327" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1575489426328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1575489396324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489396324" />
   </component>
 </project>
