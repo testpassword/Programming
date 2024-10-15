@@ -6,12 +6,12 @@
       <artifact name="ExtendedServer:jar" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6d543edb-b11a-45aa-ab63-dfd640414ad8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab7-09.05.19/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7-09.05.19/.idea/dataSources/b11ab7cc-c8c7-4271-9e17-ee5e88bd2a5e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4326d946-8fab-4119-b5d1-f5d93dcba6a0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtendedServer/ExtendedServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExtendedServer/ExtendedServer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -63,6 +61,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -70,28 +71,34 @@
       </set>
     </option>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="opd2l03z" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="1OhBxXoyg5fMPM2p2KRnnlLAG17" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="postgresql" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/pugalol/itmo/1 course/programming/lab8-15.06.19",
+    "ruby.rails.projectView.checked": "true",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="V:\ITMO\1 course\programming\lab8-15.06.19\PrometheusGUI\main" />
@@ -142,6 +149,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -202,45 +210,26 @@
       <workItem from="1572807884191" duration="7000" />
       <workItem from="1575489266363" duration="161000" />
       <workItem from="1575489454618" duration="18000" />
+      <workItem from="1687705784488" duration="131000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1575489426328">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
-    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1575489426328">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
-    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1575489426327">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426327" />
-    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1575489426328">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489426328" />
-    <state x="242" y="0" key="SettingsEditor" timestamp="1575489396324">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="242" y="0" key="SettingsEditor/0.0.1536.824/-313.-1080.2048.824@0.0.1536.824" timestamp="1575489396324" />
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
